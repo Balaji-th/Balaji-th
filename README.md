@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Balaji-th.👀 I’m interested in AI Domine.I love to integrate hardware and software.So I dive into AI field to give solution for various problem with modern technology. 
+- 👋 Hi, I’m @Balaji-th.I am Diploma in ECE(Sandwich) graduated and Pursuring Bachelor Engineering in Electronics and Communication.
+- 👀 I’m interested in AI Domine.I love to integrate hardware and software.So I dive into AI field to give solution for various problem with modern technology. 
 - 🌱 I’m currently learning Machine Learning And Deep Learning.And doing some project relevant to object detection and NLP and Parallelly involved in 
 Autonomous vehicle project with collaboration with LMES academy. 
 - 💞️ I’m looking to obtain a challenging position in a high-quality engineering environment where
